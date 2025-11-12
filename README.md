@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Davi Pontes!
+# 👋 Olá, eu sou o Davi Henrique!
 
 🎯 **Desenvolvedor iniciante** apaixonado por tecnologia e programação.  
 💻 Atualmente estudando **Java** e **HTML** — explorando os fundamentos da lógica de programação e desenvolvimento web.  
