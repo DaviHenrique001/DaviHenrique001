@@ -23,22 +23,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight"/>
-</div>
-
----
-
-## 🌍 Onde me encontrar:
-
-📧 **Email:** seuemail@example.com  
-💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-📁 **Portfólio (em construção):** [seusite.com](https://seusite.com)
-
----
 
 ## 🚀 Um passo de cada vez!
 > “Não importa o quão devagar você vá, desde que você não pare.” — Confúcio
